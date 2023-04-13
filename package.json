@@ -1,0 +1,15 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "sex",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Yo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.1.1",
+    "electron-packager": "^17.1.1"
+  }
+}
